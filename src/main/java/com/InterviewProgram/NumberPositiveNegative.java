@@ -7,7 +7,7 @@ public class NumberPositiveNegative {
    public static void main(String []args)
    {
        Scanner input = new Scanner(System.in);
-       int number = input.nextInt();
+       double number = input.nextdouble();
 
        if(number >=0)
        {
